@@ -18,7 +18,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Base {
 public static WebDriver driver;
-	Changing the again
+	Changing the line again
+
 	public static void getWebDriver() {
 		
 		        //getting the user input for browser
