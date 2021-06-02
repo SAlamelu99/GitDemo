@@ -24,7 +24,7 @@ public static WebDriver driver;
 		        //getting the user input for browser
 				System.out.print("Which browser you want to execute \n 1. Chrome \n 2. MS Edge \n 3. Firefox \n Type the number: ");
 				Scanner sc = new Scanner(System.in);
-				int num = sc.nextInt();
+				int number = sc.nextInt();
 				
 				//Launching the Browser
 				if(num == 1) {
